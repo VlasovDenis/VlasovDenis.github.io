@@ -1,5 +1,5 @@
 {
-  "name": "Российское ТВ и видео",
-  "version": "1.0.0",
+  "name": "ТВ и видео",
+  "version": "3.0.0",
   "parameter": "content:https://vlasovdenis.github.io/msx-tv-menu/msx-russian-tv.json"
 }
